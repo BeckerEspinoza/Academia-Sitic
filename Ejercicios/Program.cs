@@ -1,32 +1,37 @@
-﻿using System.Diagnostics;
+﻿using System.ComponentModel;
+using System.Diagnostics;
 using System.Security.Cryptography.X509Certificates;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        // Console.WriteLine("Hello, World!");
+        int initialStock = 50;
+        int quantityToAdd = 20;
+        int addedQuantity;
 
-        /*  string courseName = "Academia SITIC";
-          String courseName2 = "AcademiaSITIC";
+        updateStock(initialStock, quantityToAdd, out int updatedStock, out addedQuantity);
 
-          int studentCount = 28;
-          bool isStartingNow = true;
+        
 
-          int? age = null;
-          age = 23;
 
-          Console.WriteLine(age != null ? age : 0);
-          Console.ReadKey(); */
-
-        //------------------------------------------------
-
-        //METODOS
-        int a = 5;
-        int b = 10;
-
-        Console.WriteLine(SumInteger(a, b));
         Console.ReadKey();
+    }
+
+    public static void updateStock(int initialStock, int quantityToAdd, out int updatedStock, out int addedQuantity)
+    {
+        addedQuantity = quantityToAdd;
+        updatedStock = initialStock + quantityToAdd;
+    }
+
+    public static void AdjustStock(ref int stock, int adjustment)
+    {
+        
+    }
+
+    public static (string, int) GetProductInfo(string productName, int stock)
+    {
+        return (productName, stock);
     }
 
     public static int SumInteger(int a, int b)
