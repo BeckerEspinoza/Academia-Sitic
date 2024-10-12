@@ -1,0 +1,15 @@
+C:\GitHub\Academia-Sitic\Ejercicios\bin\Debug\net8.0\Ejercicios.exe
+C:\GitHub\Academia-Sitic\Ejercicios\bin\Debug\net8.0\Ejercicios.deps.json
+C:\GitHub\Academia-Sitic\Ejercicios\bin\Debug\net8.0\Ejercicios.runtimeconfig.json
+C:\GitHub\Academia-Sitic\Ejercicios\bin\Debug\net8.0\Ejercicios.dll
+C:\GitHub\Academia-Sitic\Ejercicios\bin\Debug\net8.0\Ejercicios.pdb
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfoInputs.cache
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfo.cs
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.sourcelink.json
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.dll
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\refint\Ejercicios.dll
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.pdb
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\Ejercicios.genruntimeconfig.cache
+C:\GitHub\Academia-Sitic\Ejercicios\obj\Debug\net8.0\ref\Ejercicios.dll
